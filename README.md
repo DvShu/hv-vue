@@ -8,4 +8,4 @@
     > 后续可能会考虑使用 [ES6-Promise](https://github.com/stefanpenner/es6-promise "ES6-Promise") + [fetch](https://github.com/github/fetch "fetch") 进行替换
 
 ## 使用
-由于现阶段因为整理的组件比较少，所以没有进行打包，无法直接在浏览器中使用，只能通过 `Vue` + `Webpack` 的方式配合使用。详细文档：
+由于现阶段因为整理的组件比较少，所以没有进行打包，无法直接在浏览器中使用，只能通过 `Vue` + `Webpack` 的方式配合使用。详细文档：[hc-vue 说明文档](https://gitee.com/towardly/hc-vue/wikis "hc-vue 说明文档")
