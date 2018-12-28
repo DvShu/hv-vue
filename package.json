@@ -1,6 +1,7 @@
 {
   "name": "hc-vue",
-  "version": "0.0.1",
+  "description": "整合了一些 Vue 开发中的常用的组件集合, 扩展 element-ui。新增的组件有 ProgressBar, ajax。",
+  "version": "1.0.0",
   "private": false,
   "files": [
     "lib/*"
